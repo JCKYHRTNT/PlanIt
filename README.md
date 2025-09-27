@@ -10,8 +10,6 @@
 
 PlanIt is a full-stack productivity and scheduling web application designed for both individuals and teams. It unifies calendar management, to-do lists, long-term goal tracking, and team collaboration into a single, intelligent platform. Key features include an integrated Gmail client and an AI-powered meeting scheduler that analyzes team members' schedules to find optimal times.
 
-**Live Deployment**: This application is deployed and accessible on Railway via **[plannerplanit.up.railway.app](https://plannerplanit.up.railway.app/)**.
-
 **Application Demo**: **[Watch the demo on YouTube](https://youtu.be/fyQQAP_fmcw)**.
 
 -----
