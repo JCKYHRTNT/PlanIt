@@ -2,7 +2,7 @@
 
 # PlanIt
 
-<img src="public/planitLogo.png" alt="PlanIt Logo" width="200">
+<img src="PlanIt-main/public/planitLogo.png" alt="PlanIt Logo" width="200">
 
 **An Intelligent Planning & Productivity Platform**
 
@@ -143,6 +143,9 @@ This project is a monorepo containing both the frontend and backend code.
 -----
 
 ## 📧 Contact Developer
+
+See Original Repo:
+https://github.com/JasonTherawan/PlanIt
 
 For questions, support, or feedback, please contact the owner of this repository or via email [therawan.jason@gmail.com](mailto:therawan.jason@gmail.com).
 
